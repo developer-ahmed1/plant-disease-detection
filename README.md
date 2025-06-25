@@ -21,6 +21,8 @@ A powerful Flutter-based mobile application that detects plant diseases using a 
 
 📸 Screenshots
 
+https://github.com/developer-ahmed1/plant-disease-detection/blob/2dd27397c9c2eea4f68025b433b5cb8e2e271110/plant%20disease.mp4
+
 🛠️ Tech Stack
 
 Flutter 🐦
