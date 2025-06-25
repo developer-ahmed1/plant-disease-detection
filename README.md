@@ -37,8 +37,11 @@ cupertino_icons for iOS-styled icons
 dependencies:
 flutter:
 sdk: flutter
+
 cupertino_icons: ^1.0.2
+
 image_picker: ^0.8.9
+
 flutter_tflite: ^1.0.1
 
 📁 Project Setup
